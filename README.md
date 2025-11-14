@@ -1,2 +1,4 @@
-# Prototype-Evidence-Mint-Validate-Burn-System-April-16-Start-Date-
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
+Prototype-Evidence-Mint-Validate-Burn-System-April-16-Start-Date-
 This repo contains snapshot proof of the original Mint-Validate-Burn prototype, started April 16, 2025. Includes timestamps, data logs, and build artifacts. Confirms authorship and early development before mirroring. Work was paused to document and defend stolen IP.
